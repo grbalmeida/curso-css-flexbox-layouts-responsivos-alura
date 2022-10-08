@@ -1,3 +1,5 @@
+Vercel: [https://curso-css-flexbox-layouts-responsivos-alura.vercel.app/]
+
 Vídeos da sessão vídeos:
 
         <li class="videos__item">
